@@ -1,5 +1,5 @@
 # Deep Reinforcement Learning for Unsupervised Video Summarization with Determinantal point process.
-# Implement with python = 3.x
+## Implement with python = 3.x
 
 ## Requirement
 
@@ -24,7 +24,7 @@ python feat_extraction.py
 ## 4. Summary Generation
 
 ```bash
-python updated.py
+python summary.py
 
 ```
 Video summarization will be saved folder log/fraction.mp4
